@@ -1,0 +1,5 @@
+/src/main/resources/database.properties
+/src/main/resources/hibernate.properties
+/target/
+/.idea/compiler.xml
+/.idea/
